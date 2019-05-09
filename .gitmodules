@@ -1,0 +1,10 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "public"]
+	path = public
+	url = git@github.com:nesemu/nesemu.github.io.git
+	branch = master
+[submodule "themes/terminal"]
+	path = themes/terminal
+	url = https://github.com/panr/hugo-theme-terminal.git
