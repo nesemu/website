@@ -39,7 +39,7 @@ Usage:
 **Completely Open Source and Built From Scratch**
 
 
-*	Countless Hours were spend perfecting the C++ backend as to make a fast and leightweight NES Emulator
+*	Countless Hours were spend perfecting the C++ backend as to make a fast and lightweight NES Emulator
 *	Custom Code Runs the front end utilizing modern Apple Technologies and Development Practices
 *	This code is and always will be free to use, modify, and redistribute under the BSD3-Clause "New" License
 
