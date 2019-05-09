@@ -1,4 +1,4 @@
-baseURL = "http://nesemu.github.io/"
+baseURL = "https://nesemu.github.io"
 languageCode = "en-us"
 title = "NESEmu"
 theme = "terminal"
