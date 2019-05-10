@@ -14,25 +14,7 @@ The emulator currently support games such as Donkey Kong, Super Mario Bros, The 
 
 # Ready to Get Started?
 
-<button type="button" class="button" onclick="window.location.href = 'https://github.com';">Download Now</button> v0.1 Published 5/9/2019
-
-Usage:
-
-1.	Download the DMG and Open It
-2. 	Copy the application into your Applications folder
-3. 	Start the Application and Choose a ROM that you have somewhere on your computer
-4. 	Use the following table to help you determine key mappings
-
-| NES Controller Key | Keyboard Key |
-|--------------------|--------------|
-| A BUTTON           | 'j' Key      |
-| B BUTTON           | 'k' Key      |
-| SELECT BUTTON      | 'n' Key      |
-| START BUTTON       | 'm' Key      |
-| UP D-PAD           | 'w' Key      |
-| DOWN D-PAD         | 's' Key      |
-| LEFT D-PAD         | 'a' Key      |
-| RIGHT D-PAD        | 'd' Key      |
+Read our installation instructions on the [Install page]({{< ref "contribute/install.md" >}})
 
 # Features
 
