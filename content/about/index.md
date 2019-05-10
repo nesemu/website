@@ -14,7 +14,7 @@ The emulator currently support games such as Donkey Kong, Super Mario Bros, The 
 
 # Ready to Get Started?
 
-Read our installation instructions on the [Install page]({{< ref "contribute/install.md" >}})
+Read our installation instructions on the [Install page]({{< ref "install/index.md" >}})
 
 # Features
 
