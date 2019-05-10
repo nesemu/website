@@ -4,7 +4,7 @@ date: 2019-05-09T15:58:20-04:00
 draft: false
 ---
 
-[Download the latest release from GitHub.](https://github.com/nesemu/NESemu/releases)
+[Download the latest release from GitHub.](https://github.com/nesemu/NESemu/releases/latest)
 
 Usage:
 
